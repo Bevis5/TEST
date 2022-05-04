@@ -13,7 +13,7 @@ public class App
         System.out.println ("changeLocal");
     }
     public String test(){
-        return "dev";
+        return "dev123123123123dev";
     }
 
 }
