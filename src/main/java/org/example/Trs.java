@@ -7,4 +7,5 @@ package org.example;
 public class Trs {
     private String name;
     private String stri;
+    private String stri1;
 }
