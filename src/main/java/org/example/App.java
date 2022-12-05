@@ -16,7 +16,7 @@ public class App
 
     }
     public String test(){
-        return "dev123123123123dev";
+        return "master";
     }
 
 }
